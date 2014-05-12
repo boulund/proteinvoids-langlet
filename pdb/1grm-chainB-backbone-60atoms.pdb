@@ -1,0 +1,244 @@
+HEADER    PEPTIDE ANTIBIOTIC                      18-OCT-93   1GRM              
+TITLE     REFINEMENT OF THE SPATIAL STRUCTURE OF THE GRAMICIDIN A               
+TITLE    2 TRANSMEMBRANE ION-CHANNEL (RUSSIAN)                                  
+COMPND    MOL_ID: 1;                                                            
+COMPND   2 MOLECULE: GRAMICIDIN A;                                              
+COMPND   3 CHAIN: A, B;                                                         
+COMPND   4 ENGINEERED: YES                                                      
+SOURCE    MOL_ID: 1                                                             
+KEYWDS    PEPTIDE ANTIBIOTIC                                                    
+EXPDTA    NMR, 5 STRUCTURES                                                     
+AUTHOR    A.S.ARSENIEV,I.L.BARSUKOV,A.L.LOMIZE,V.Y.OREKHOV,V.F.BYSTROV          
+REVDAT   2   01-APR-03 1GRM    1       JRNL                                     
+REVDAT   1   31-JAN-94 1GRM    0                                                
+JRNL        AUTH   A.L.LOMIZE,V.I.U.OREKHOV,A.S.ARSEN'EV                        
+JRNL        TITL   REFINEMENT OF THE SPATIAL STRUCTURE OF THE                   
+JRNL        TITL 2 GRAMICIDIN A ION CHANNEL                                     
+JRNL        REF    BIOL.MEMBR.(USSR)             V.  18   182 1992              
+JRNL        REFN   ASTM BIMEE9  SU ISSN 0233-4755                               
+REMARK   1                                                                      
+REMARK   1 REFERENCE 1                                                          
+REMARK   1  AUTH   A.S.ARSENIEV,I.L.BARSUKOV,V.F.BYSTROV,A.L.LOMIZE,            
+REMARK   1  AUTH 2 YU.A.OVCHINNIKOV                                             
+REMARK   1  TITL   1H-NMR STUDY OF GRAMICIDIN A TRANSMEMBRANE ION               
+REMARK   1  TITL 2 CHANNEL                                                      
+REMARK   1  REF    FEBS LETT.                    V. 186   168 1985              
+REMARK   1  REFN   ASTM FEBLAL  NE ISSN 0014-5793                               
+REMARK   1 REFERENCE 2                                                          
+REMARK   1  AUTH   A.S.ARSENIEV,A.L.LOMIZE,I.L.BARSUKOV,V.F.BYSTROV             
+REMARK   1  TITL   GRAMICIDIN A TRANSMEMBRANE ION-CHANNEL.                      
+REMARK   1  TITL 2 THREE-DIMENSIONAL STRUCTURE RECONSTRUCTION BASED             
+REMARK   1  TITL 3 ON NMR SPECTROSCOPY AND ENERGY REFINEMENT (RUSSIAN)          
+REMARK   1  REF    BIOL.MEMBR.(USSR)             V.   3  1077 1986              
+REMARK   1  REFN   ASTM BIMEE9  SU ISSN 0233-4755                               
+REMARK   1 REFERENCE 3                                                          
+REMARK   1  AUTH   A.S.ARSENIEV,I.L.BARSUKOV,V.F.BYSTROV,                       
+REMARK   1  AUTH 2 YU.A.OVCHINNIKOV                                             
+REMARK   1  TITL   SPATIAL STRUCTURE OF GRAMICIDIN A TRANSMEMBRANE              
+REMARK   1  TITL 2 ION CHANNEL-NMR ANALYSIS IN MICELLES (RUSSIAN)               
+REMARK   1  REF    BIOL.MEMBR.(USSR)             V.   3   437 1986              
+REMARK   1  REFN   ASTM BIMEE9  SU ISSN 0233-4755                               
+REMARK   2                                                                      
+REMARK   2 RESOLUTION. NOT APPLICABLE.                                          
+REMARK   3                                                                      
+REMARK   3 REFINEMENT.                                                          
+REMARK   3   PROGRAM     : NULL                                                 
+REMARK   3   AUTHORS     : NULL                                                 
+REMARK   3                                                                      
+REMARK   3  OTHER REFINEMENT REMARKS: NULL                                      
+REMARK   4                                                                      
+REMARK   4 1GRM COMPLIES WITH FORMAT V. 3.0, 1-DEC-2006                         
+REMARK   4                                                                      
+REMARK   4 THIS IS THE REMEDIATED VERSION OF THIS PDB ENTRY.                    
+REMARK   4 REMEDIATED DATA FILE REVISION 3.100 (2007-03-17)                     
+REMARK 210                                                                      
+REMARK 210 EXPERIMENTAL DETAILS                                                 
+REMARK 210  EXPERIMENT TYPE                : NMR                                
+REMARK 210  TEMPERATURE           (KELVIN) : NULL                               
+REMARK 210  PH                             : NULL                               
+REMARK 210  IONIC STRENGTH                 : NULL                               
+REMARK 210  PRESSURE                       : NULL                               
+REMARK 210  SAMPLE CONTENTS                : NULL                               
+REMARK 210                                                                      
+REMARK 210  NMR EXPERIMENTS CONDUCTED      : NULL                               
+REMARK 210  SPECTROMETER FIELD STRENGTH    : NULL                               
+REMARK 210  SPECTROMETER MODEL             : NULL                               
+REMARK 210  SPECTROMETER MANUFACTURER      : NULL                               
+REMARK 210                                                                      
+REMARK 210  STRUCTURE DETERMINATION.                                            
+REMARK 210   SOFTWARE USED                 : NULL                               
+REMARK 210   METHOD USED                   : NULL                               
+REMARK 210                                                                      
+REMARK 210 CONFORMERS, NUMBER CALCULATED   : NULL                               
+REMARK 210 CONFORMERS, NUMBER SUBMITTED    : NULL                               
+REMARK 210 CONFORMERS, SELECTION CRITERIA  : NULL                               
+REMARK 210                                                                      
+REMARK 210 BEST REPRESENTATIVE CONFORMER IN THIS ENSEMBLE : NULL                
+REMARK 210                                                                      
+REMARK 210 REMARK: NULL                                                         
+REMARK 215                                                                      
+REMARK 215 NMR STUDY                                                            
+REMARK 215 THE COORDINATES IN THIS ENTRY WERE GENERATED FROM SOLUTION           
+REMARK 215 NMR DATA.  PROTEIN DATA BANK CONVENTIONS REQUIRE THAT                
+REMARK 215 CRYST1 AND SCALE RECORDS BE INCLUDED, BUT THE VALUES ON              
+REMARK 215 THESE RECORDS ARE MEANINGLESS.                                       
+REMARK 500                                                                      
+REMARK 500 GEOMETRY AND STEREOCHEMISTRY                                         
+REMARK 500 SUBTOPIC: TORSION ANGLES                                             
+REMARK 500                                                                      
+REMARK 500 TORSION ANGLES OUTSIDE THE EXPECTED RAMACHANDRAN REGIONS:            
+REMARK 500 (M=MODEL NUMBER; RES=RESIDUE NAME; C=CHAIN IDENTIFIER;               
+REMARK 500 SSEQ=SEQUENCE NUMBER; I=INSERTION CODE).                             
+REMARK 500                                                                      
+REMARK 500 STANDARD TABLE:                                                      
+REMARK 500 FORMAT:(10X,I3,1X,A3,1X,A1,I4,A1,4X,F7.2,3X,F7.2)                    
+REMARK 500                                                                      
+REMARK 500  M RES CSSEQI        PSI       PHI                                   
+REMARK 500  1 LEU A   4     -124.26    125.52                                   
+REMARK 500  1 VAL A   6     -116.14    138.87                                   
+REMARK 500  1 VAL A   8     -125.43    129.52                                   
+REMARK 500  1 LEU A  10     -105.76    143.77                                   
+REMARK 500  1 LEU A  12      -94.80    110.53                                   
+REMARK 500  1 LEU A  14     -102.93    112.10                                   
+REMARK 500  1 LEU B   4     -124.24    125.58                                   
+REMARK 500  1 VAL B   6     -116.16    138.82                                   
+REMARK 500  1 VAL B   8     -125.43    129.49                                   
+REMARK 500  1 LEU B  10     -105.75    143.79                                   
+REMARK 500  1 LEU B  12      -94.79    110.52                                   
+REMARK 500  1 LEU B  14     -102.94    112.15                                   
+REMARK 500  2 LEU A   4     -128.53    132.99                                   
+REMARK 500  2 VAL A   6     -100.78    138.91                                   
+REMARK 500  2 VAL A   8     -135.77    127.75                                   
+REMARK 500  2 LEU A  10      -99.51    158.91                                   
+REMARK 500  2 LEU A  12      -97.54    107.16                                   
+REMARK 500  2 LEU A  14      -89.27     99.12                                   
+REMARK 500  2 LEU B   4     -128.51    132.90                                   
+REMARK 500  2 VAL B   6     -100.74    138.87                                   
+REMARK 500  2 VAL B   8     -135.74    127.77                                   
+REMARK 500  2 LEU B  10      -99.49    158.95                                   
+REMARK 500  2 LEU B  12      -97.50    107.18                                   
+REMARK 500  2 LEU B  14      -89.24     99.12                                   
+REMARK 500  3 LEU A   4     -129.14    124.48                                   
+REMARK 500  3 VAL A   6     -108.18    137.60                                   
+REMARK 500  3 VAL A   8     -135.09    131.90                                   
+REMARK 500  3 LEU A  10      -97.50    132.73                                   
+REMARK 500  3 LEU A  12      -98.68    106.67                                   
+REMARK 500  3 LEU A  14      -90.35    102.95                                   
+REMARK 500  3 LEU B   4     -129.10    124.48                                   
+REMARK 500  3 VAL B   6     -108.21    137.59                                   
+REMARK 500  3 VAL B   8     -135.08    131.85                                   
+REMARK 500  3 LEU B  10      -97.48    132.70                                   
+REMARK 500  3 LEU B  12      -98.66    106.51                                   
+REMARK 500  3 LEU B  14      -90.34    102.97                                   
+REMARK 500  4 LEU A   4     -130.67    119.26                                   
+REMARK 500  4 VAL A   6     -117.58    140.53                                   
+REMARK 500  4 VAL A   8     -137.77    129.03                                   
+REMARK 500  4 LEU A  12      -99.97    109.44                                   
+REMARK 500  4 LEU A  14      -92.95     97.70                                   
+REMARK 500  4 LEU B   4     -130.73    119.32                                   
+REMARK 500  4 VAL B   6     -117.56    140.55                                   
+REMARK 500  4 VAL B   8     -137.70    129.08                                   
+REMARK 500  4 LEU B  12      -99.97    109.38                                   
+REMARK 500  4 LEU B  14      -92.92     97.64                                   
+REMARK 500  5 LEU A   4     -111.99    117.14                                   
+REMARK 500  5 VAL A   6     -117.35    137.95                                   
+REMARK 500  5 VAL A   8     -134.23    134.18                                   
+REMARK 500  5 LEU A  10      -95.64    143.88                                   
+REMARK 500  5 LEU A  12     -102.12    111.60                                   
+REMARK 500  5 LEU A  14      -95.72    100.56                                   
+REMARK 500  5 LEU B   4     -111.99    117.14                                   
+REMARK 500  5 VAL B   6     -117.35    137.95                                   
+REMARK 500  5 VAL B   8     -134.23    134.18                                   
+REMARK 500  5 LEU B  10      -95.64    143.88                                   
+REMARK 500  5 LEU B  12     -102.12    111.60                                   
+REMARK 500  5 LEU B  14      -95.72    100.56                                   
+SEQRES   1 A   16  VAL GLY ALA LEU ALA VAL VAL VAL TRP LEU TRP LEU TRP          
+SEQRES   2 A   16  LEU TRP ETA                                                  
+SEQRES   1 B   16  VAL GLY ALA LEU ALA VAL VAL VAL TRP LEU TRP LEU TRP          
+SEQRES   2 B   16  LEU TRP ETA                                                  
+MODRES 1GRM FOR A    0       FORMYL GROUP                                       
+MODRES 1GRM ETA A   16       ETHANOLAMINE                                       
+MODRES 1GRM FOR B    0       FORMYL GROUP                                       
+MODRES 1GRM ETA B   16       ETHANOLAMINE                                       
+FTNOTE   1 RESIDUES LEU 4, VAL 6, VAL 8, LEU 10, LEU 12, AND LEU 14             
+FTNOTE   1  IN EACH CHAIN EXHIBIT THE D CONFIGURATION OF THE AMINO              
+FTNOTE   1  ACID.                                                               
+HET    ETA  A  16       4                                                       
+HET    ETA  B  16       4                                                       
+HET    FOR  A   0       2                                                       
+HET    FOR  B   0       2                                                       
+HETNAM     ETA ETHANOLAMINE                                                     
+HETNAM     FOR FORMYL GROUP                                                     
+FORMUL   1  ETA    2(C2 H7 N O)                                                 
+FORMUL   3  FOR    2(C H2 O)                                                    
+SHEET    2   2 1 GLY B   2  TRP B  15  0
+LINK         C   FOR A   0                 N   VAL A   1                        
+LINK         C   FOR B   0                 N   VAL B   1                        
+CRYST1    1.000    1.000    1.000  90.00  90.00  90.00 P 1           1          
+ORIGX1      1.000000  0.000000  0.000000        0.00000                         
+ORIGX2      0.000000  1.000000  0.000000        0.00000                         
+ORIGX3      0.000000  0.000000  1.000000        0.00000                         
+SCALE1      1.000000  0.000000  0.000000        0.00000                         
+SCALE2      0.000000  1.000000  0.000000        0.00000                         
+SCALE3      0.000000  0.000000  1.000000        0.00000                         
+ATOM      1  N   VAL B   1       2.276   0.179   1.481  1.00  1.00           N
+ATOM      2  CA  VAL B   1       3.451  -0.461   2.047  1.00  1.00           C
+ATOM      3  C   VAL B   1       3.555  -0.104   3.532  1.00  1.00           C
+ATOM      4  O   VAL B   1       3.873   1.031   3.880  1.00  1.00           O
+ATOM      5  N   GLY B   2       3.281  -1.096   4.366  1.00  1.00           N
+ATOM      6  CA  GLY B   2       3.339  -0.902   5.805  1.00  1.00           C
+ATOM      7  C   GLY B   2       2.482  -1.940   6.534  1.00  1.00           C
+ATOM      8  O   GLY B   2       2.991  -2.970   6.974  1.00  1.00           O
+ATOM      9  N   ALA B   3       1.198  -1.633   6.638  1.00  1.00           N
+ATOM     10  CA  ALA B   3       0.267  -2.527   7.305  1.00  1.00           C
+ATOM     11  C   ALA B   3      -1.138  -2.309   6.738  1.00  1.00           C
+ATOM     12  O   ALA B   3      -1.509  -1.185   6.406  1.00  1.00           O
+ATOM     13  N   LEU B   4      -1.880  -3.402   6.645  1.00  1.00           N
+ATOM     14  CA  LEU B   4      -3.235  -3.345   6.124  1.00  1.00           C
+ATOM     15  C   LEU B   4      -3.375  -4.340   4.970  1.00  1.00           C
+ATOM     16  O   LEU B   4      -3.106  -5.528   5.133  1.00  1.00           O
+ATOM     17  N   ALA B   5      -3.796  -3.816   3.828  1.00  1.00           N
+ATOM     18  CA  ALA B   5      -3.975  -4.642   2.646  1.00  1.00           C
+ATOM     19  C   ALA B   5      -2.992  -4.195   1.562  1.00  1.00           C
+ATOM     20  O   ALA B   5      -3.028  -3.048   1.121  1.00  1.00           O
+ATOM     21  N   VAL B   6      -2.136  -5.126   1.166  1.00  1.00           N
+ATOM     22  CA  VAL B   6      -1.144  -4.842   0.142  1.00  1.00           C
+ATOM     23  C   VAL B   6       0.188  -5.482   0.537  1.00  1.00           C
+ATOM     24  O   VAL B   6       0.290  -6.704   0.631  1.00  1.00           O
+ATOM     25  N   VAL B   7       1.176  -4.627   0.759  1.00  1.00           N
+ATOM     26  CA  VAL B   7       2.498  -5.094   1.143  1.00  1.00           C
+ATOM     27  C   VAL B   7       2.761  -4.723   2.603  1.00  1.00           C
+ATOM     28  O   VAL B   7       2.419  -3.626   3.039  1.00  1.00           O
+ATOM     29  N   VAL B   8       3.367  -5.660   3.318  1.00  1.00           N
+ATOM     30  CA  VAL B   8       3.680  -5.446   4.721  1.00  1.00           C
+ATOM     31  C   VAL B   8       3.170  -6.632   5.540  1.00  1.00           C
+ATOM     32  O   VAL B   8       3.506  -7.780   5.253  1.00  1.00           O
+ATOM     33  N   TRP B   9       2.365  -6.315   6.544  1.00  1.00           N
+ATOM     34  CA  TRP B   9       1.805  -7.341   7.408  1.00  1.00           C
+ATOM     35  C   TRP B   9       0.290  -7.131   7.470  1.00  1.00           C
+ATOM     36  O   TRP B   9      -0.177  -6.010   7.665  1.00  1.00           O
+ATOM     37  N   LEU B  10      -0.434  -8.227   7.300  1.00  1.00           N
+ATOM     38  CA  LEU B  10      -1.886  -8.177   7.335  1.00  1.00           C
+ATOM     39  C   LEU B  10      -2.450  -9.168   6.314  1.00  1.00           C
+ATOM     40  O   LEU B  10      -2.421 -10.377   6.535  1.00  1.00           O
+ATOM     41  N   TRP B  11      -2.950  -8.617   5.218  1.00  1.00           N
+ATOM     42  CA  TRP B  11      -3.520  -9.437   4.162  1.00  1.00           C
+ATOM     43  C   TRP B  11      -2.911  -8.986   2.832  1.00  1.00           C
+ATOM     44  O   TRP B  11      -2.441  -7.856   2.713  1.00  1.00           O
+ATOM     45  N   LEU B  12      -2.941  -9.893   1.867  1.00  1.00           N
+ATOM     46  CA  LEU B  12      -2.398  -9.603   0.550  1.00  1.00           C
+ATOM     47  C   LEU B  12      -1.128 -10.429   0.334  1.00  1.00           C
+ATOM     48  O   LEU B  12      -1.199 -11.583  -0.085  1.00  1.00           O
+ATOM     49  N   TRP B  13       0.002  -9.805   0.629  1.00  1.00           N
+ATOM     50  CA  TRP B  13       1.286 -10.468   0.472  1.00  1.00           C
+ATOM     51  C   TRP B  13       2.197 -10.010   1.613  1.00  1.00           C
+ATOM     52  O   TRP B  13       1.996  -8.939   2.181  1.00  1.00           O
+ATOM     53  N   LEU B  14       3.182 -10.845   1.912  1.00  1.00           N
+ATOM     54  CA  LEU B  14       4.124 -10.540   2.975  1.00  1.00           C
+ATOM     55  C   LEU B  14       3.921 -11.521   4.131  1.00  1.00           C
+ATOM     56  O   LEU B  14       4.350 -12.671   4.056  1.00  1.00           O
+ATOM     57  N   TRP B  15       3.265 -11.030   5.172  1.00  1.00           N
+ATOM     58  CA  TRP B  15       2.998 -11.850   6.342  1.00  1.00           C
+ATOM     59  C   TRP B  15       1.587 -11.523   6.837  1.00  1.00           C
+ATOM     60  O   TRP B  15       0.979 -10.552   6.391  1.00  1.00           O
+END
